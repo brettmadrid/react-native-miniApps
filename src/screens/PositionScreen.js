@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
   boxThreeStyle: {
     borderWidth: 1,
     borderColor: 'black',
-    backgroundColor: 'blue',
+    backgroundColor: '#bbb',
     height: 100,
     width: 100,
   },
